@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif"  />
-
 ###
 
 <div align="left">
@@ -17,6 +15,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif"  />
+ 🎵 Currently Vibing To
+
+[![Spotify](https://novatorem-flax-xi.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
 ###
 
