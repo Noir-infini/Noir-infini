@@ -17,11 +17,6 @@
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/cRs4lnEWw48AAAAd/everknight-evernight.gif"  />
- 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem-flax-xi.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-###
 
 <div align="left">
 </div>
